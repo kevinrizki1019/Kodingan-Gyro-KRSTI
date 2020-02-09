@@ -1,4 +1,1 @@
-# Kodingan-Gyro-KRSTI
-- Kodingan Baca
-- Kodingan Filter
-- Penyesuaian
+# IMU 9250 Read and Control
